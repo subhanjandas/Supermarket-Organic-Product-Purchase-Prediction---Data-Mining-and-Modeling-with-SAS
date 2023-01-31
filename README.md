@@ -3,6 +3,13 @@
 ## Introduction 
 The Supermarket Organic Product Purchase Prediction project aims to determine which customers are likely to purchase the supermarket's new line of organic products. With a customer loyalty program in place, the supermarket collected data on coupon redemption and organic product purchases as an initial buyer incentive plan. The ORGANICS dataset used in this project contains over 22,000 observations and 13 variables that will be analyzed through data mining techniques with SAS Enterprise Miner. The goal of this project is to leverage the insights gained from the data analysis to develop a predictive model for organic product purchases, enabling the supermarket to effectively target its marketing efforts and increase sales in the organic product line.
 
+
+## Result - Decision Tree SAS organic Diagram
+
+![image](https://user-images.githubusercontent.com/69835617/215869424-77258b7f-a586-4485-8ab4-16121fa4aff9.png)
+
+## Process Screenshots
+
 ![image](https://user-images.githubusercontent.com/69835617/215869131-58157ef5-3d5f-42be-a7b7-bd9f4fcd9c52.png)
 
 ![image](https://user-images.githubusercontent.com/69835617/215869144-3648a895-75f9-4fe8-a408-43c4aad70c7e.png)
@@ -32,11 +39,6 @@ The Supermarket Organic Product Purchase Prediction project aims to determine wh
 ![image](https://user-images.githubusercontent.com/69835617/215869323-8d63561f-36bc-434e-9fa3-021da4cdb264.png)
 
 ![image](https://user-images.githubusercontent.com/69835617/215869354-93290c94-671d-403f-81db-9318327f7707.png)
-
-## Result - Decision Tree SAS organic Diagram
-
-![image](https://user-images.githubusercontent.com/69835617/215869424-77258b7f-a586-4485-8ab4-16121fa4aff9.png)
-
 
 
 
