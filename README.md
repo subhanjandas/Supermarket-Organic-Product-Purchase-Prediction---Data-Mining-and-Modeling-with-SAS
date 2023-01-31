@@ -1,4 +1,4 @@
-# Supermarket-Organic-Product-Purchase-Prediction---Data-Mining-and-Modeling-with-SAS
+# Supermarket Organic Product Purchase Prediction - Data Mining and Modeling with SAS
 
 ## Introduction 
 The Supermarket Organic Product Purchase Prediction project aims to determine which customers are likely to purchase the supermarket's new line of organic products. With a customer loyalty program in place, the supermarket collected data on coupon redemption and organic product purchases as an initial buyer incentive plan. The ORGANICS dataset used in this project contains over 22,000 observations and 13 variables that will be analyzed through data mining techniques with SAS Enterprise Miner. The goal of this project is to leverage the insights gained from the data analysis to develop a predictive model for organic product purchases, enabling the supermarket to effectively target its marketing efforts and increase sales in the organic product line.
