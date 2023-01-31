@@ -8,6 +8,9 @@ The Supermarket Organic Product Purchase Prediction project aims to determine wh
 
 ![image](https://user-images.githubusercontent.com/69835617/215869424-77258b7f-a586-4485-8ab4-16121fa4aff9.png)
 
+## Tools Used 
+- SAS Enterprise Miner
+
 ## Process Screenshots
 
 ![image](https://user-images.githubusercontent.com/69835617/215869131-58157ef5-3d5f-42be-a7b7-bd9f4fcd9c52.png)
